@@ -1,1 +1,2 @@
 gold is good
+silver is better
